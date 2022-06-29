@@ -25,7 +25,7 @@ apt install nodejs git
 
 git clone https://github.com/xcqrya/HackClockV2/
 
-cd HackV1
+cd HackClockV2
 
 npm i
 
@@ -40,7 +40,7 @@ Lalu ke cmd(folder yg kalian mau)
 
 Git clone https://github.com/xcqrya/HackClockV2/
 
-cd HackV1
+cd HackClockV2
 
 npm i
 
@@ -54,7 +54,7 @@ sudo apt install nodejs npm git
 
 git clone https://github.com/xcqrya/HackClockV2/
 
-cd HackV1
+cd HackClockV2
 
 npm i
 
